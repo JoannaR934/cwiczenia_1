@@ -4,6 +4,6 @@ Repozytorium
 
 # nagłowek2
 
-# nagłówe 4
+# nagłówek 4
 
 # nagówek 5

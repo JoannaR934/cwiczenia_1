@@ -9,3 +9,6 @@ Repozytorium
 # nagówek 5
 
 # zmiana
+
+
+# instrukcja obslugi

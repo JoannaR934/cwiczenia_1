@@ -7,3 +7,5 @@ Repozytorium
 # nagłówek 4
 
 # nagówek 5
+
+# instrukcja obslugi
